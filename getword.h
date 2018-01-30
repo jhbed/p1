@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <strings.h>
-
+/*255*/
 #define STORAGE 255
       /* This is one more than the max wordsize that getword() can handle */
 
